@@ -1,0 +1,2791 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-26T23:39:55.449477Z</date>
+  <millis>1640561995449</millis>
+  <nanos>477000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-26T23:39:55.458921Z</date>
+  <millis>1640561995458</millis>
+  <nanos>921000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-26T23:39:55.493180Z</date>
+  <millis>1640561995493</millis>
+  <nanos>180000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<record>
+  <date>2021-12-26T23:40:13.840205Z</date>
+  <millis>1640562013840</millis>
+  <nanos>205000</nanos>
+  <sequence>4</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>controllers.LoginController</class>
+  <method>IsAuth</method>
+  <thread>15</thread>
+  <message>cooker login successfully </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-26T23:42:44.133369Z</date>
+  <millis>1640562164133</millis>
+  <nanos>369000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-26T23:42:44.140639Z</date>
+  <millis>1640562164140</millis>
+  <nanos>639000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-26T23:42:44.145508Z</date>
+  <millis>1640562164145</millis>
+  <nanos>508000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<record>
+  <date>2021-12-26T23:42:53.074385Z</date>
+  <millis>1640562173074</millis>
+  <nanos>385000</nanos>
+  <sequence>4</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>controllers.LoginController</class>
+  <method>IsAuth</method>
+  <thread>15</thread>
+  <message>cooker login successfully </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-26T23:45:35.993348Z</date>
+  <millis>1640562335993</millis>
+  <nanos>348000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-26T23:45:36.000136Z</date>
+  <millis>1640562336000</millis>
+  <nanos>136000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-26T23:45:36.004664Z</date>
+  <millis>1640562336004</millis>
+  <nanos>664000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-26T23:46:22.624315Z</date>
+  <millis>1640562382624</millis>
+  <nanos>315000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-26T23:46:22.654579Z</date>
+  <millis>1640562382654</millis>
+  <nanos>579000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-26T23:46:22.660450Z</date>
+  <millis>1640562382660</millis>
+  <nanos>450000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<record>
+  <date>2021-12-26T23:46:36.335647Z</date>
+  <millis>1640562396335</millis>
+  <nanos>647000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>controllers.LoginController</class>
+  <method>IsAuth</method>
+  <thread>15</thread>
+  <message>cooker login successfully </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-27T00:07:38.756948Z</date>
+  <millis>1640563658756</millis>
+  <nanos>948000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-27T00:07:38.762851Z</date>
+  <millis>1640563658762</millis>
+  <nanos>851000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-27T00:07:38.766850Z</date>
+  <millis>1640563658766</millis>
+  <nanos>850000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-27T00:08:20.536326Z</date>
+  <millis>1640563700536</millis>
+  <nanos>326000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-27T00:08:20.569919Z</date>
+  <millis>1640563700569</millis>
+  <nanos>919000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-27T00:08:20.574927Z</date>
+  <millis>1640563700574</millis>
+  <nanos>927000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-27T08:35:51.515967Z</date>
+  <millis>1640594151515</millis>
+  <nanos>967000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-27T08:35:51.520577Z</date>
+  <millis>1640594151520</millis>
+  <nanos>577000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-27T08:35:51.524171Z</date>
+  <millis>1640594151524</millis>
+  <nanos>171000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<record>
+  <date>2021-12-27T08:36:09.193702Z</date>
+  <millis>1640594169193</millis>
+  <nanos>702000</nanos>
+  <sequence>4</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>controllers.LoginController</class>
+  <method>IsAuth</method>
+  <thread>15</thread>
+  <message>cooker login successfully </message>
+</record>
+<record>
+  <date>2021-12-27T08:36:17.962340Z</date>
+  <millis>1640594177962</millis>
+  <nanos>340000</nanos>
+  <sequence>5</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>controllers.LoginController</class>
+  <method>IsAuth</method>
+  <thread>15</thread>
+  <message>cooker login successfully </message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-27T08:48:31.775028Z</date>
+  <millis>1640594911775</millis>
+  <nanos>28000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-27T08:48:31.785569Z</date>
+  <millis>1640594911785</millis>
+  <nanos>569000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-27T08:48:31.794544Z</date>
+  <millis>1640594911794</millis>
+  <nanos>544000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-27T09:51:11.820931Z</date>
+  <millis>1640598671820</millis>
+  <nanos>931000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-27T09:51:11.912854Z</date>
+  <millis>1640598671912</millis>
+  <nanos>854000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-27T09:51:11.942601Z</date>
+  <millis>1640598671942</millis>
+  <nanos>601000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-27T10:00:30.879607Z</date>
+  <millis>1640599230879</millis>
+  <nanos>607000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-27T10:00:30.887680Z</date>
+  <millis>1640599230887</millis>
+  <nanos>680000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-27T10:00:30.892832Z</date>
+  <millis>1640599230892</millis>
+  <nanos>832000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T13:35:20.035544Z</date>
+  <millis>1640784920035</millis>
+  <nanos>544000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T13:35:20.115801Z</date>
+  <millis>1640784920115</millis>
+  <nanos>801000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T13:35:20.121928Z</date>
+  <millis>1640784920121</millis>
+  <nanos>928000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T13:46:04.200224Z</date>
+  <millis>1640785564200</millis>
+  <nanos>224000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T13:46:04.263743Z</date>
+  <millis>1640785564263</millis>
+  <nanos>743000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T13:46:04.269106Z</date>
+  <millis>1640785564269</millis>
+  <nanos>106000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<record>
+  <date>2021-12-29T13:46:11.804225Z</date>
+  <millis>1640785571804</millis>
+  <nanos>225000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>WARNING</level>
+  <class>controllers.LoginController</class>
+  <method>Login</method>
+  <thread>15</thread>
+  <message>username or password is Empty.</message>
+</record>
+<record>
+  <date>2021-12-29T13:46:23.910082Z</date>
+  <millis>1640785583910</millis>
+  <nanos>82000</nanos>
+  <sequence>4</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>WARNING</level>
+  <class>controllers.LoginController</class>
+  <method>Login</method>
+  <thread>15</thread>
+  <message>username or password is Empty.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T14:27:45.212850Z</date>
+  <millis>1640788065212</millis>
+  <nanos>850000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T14:27:45.318985Z</date>
+  <millis>1640788065318</millis>
+  <nanos>985000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T14:27:45.323114Z</date>
+  <millis>1640788065323</millis>
+  <nanos>114000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<record>
+  <date>2021-12-29T14:27:51.953334Z</date>
+  <millis>1640788071953</millis>
+  <nanos>334000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>controllers.LoginController</class>
+  <method>IsAuth</method>
+  <thread>15</thread>
+  <message>cooker login successfully </message>
+</record>
+<record>
+  <date>2021-12-29T14:27:51.957339Z</date>
+  <millis>1640788071957</millis>
+  <nanos>339000</nanos>
+  <sequence>4</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>WARNING</level>
+  <class>controllers.LoginController</class>
+  <method>getAuthorization</method>
+  <thread>15</thread>
+  <message>cooker Authorization Failed</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T14:39:46.175721Z</date>
+  <millis>1640788786175</millis>
+  <nanos>721000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T14:39:46.245Z</date>
+  <millis>1640788786245</millis>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T14:39:46.249631Z</date>
+  <millis>1640788786249</millis>
+  <nanos>631000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T14:40:15.185444Z</date>
+  <millis>1640788815185</millis>
+  <nanos>444000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T14:40:15.247132Z</date>
+  <millis>1640788815247</millis>
+  <nanos>132000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T14:40:15.253778Z</date>
+  <millis>1640788815253</millis>
+  <nanos>778000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T14:44:25.834150Z</date>
+  <millis>1640789065834</millis>
+  <nanos>150000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T14:44:25.902447Z</date>
+  <millis>1640789065902</millis>
+  <nanos>447000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T14:44:25.907568Z</date>
+  <millis>1640789065907</millis>
+  <nanos>568000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<record>
+  <date>2021-12-29T14:44:31.319660Z</date>
+  <millis>1640789071319</millis>
+  <nanos>660000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>WARNING</level>
+  <class>controllers.LoginController</class>
+  <method>Login</method>
+  <thread>15</thread>
+  <message>username or password is Empty.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T14:47:33.707157Z</date>
+  <millis>1640789253707</millis>
+  <nanos>157000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T14:47:33.781607Z</date>
+  <millis>1640789253781</millis>
+  <nanos>607000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T14:47:33.785504Z</date>
+  <millis>1640789253785</millis>
+  <nanos>504000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<record>
+  <date>2021-12-29T14:47:37.556537Z</date>
+  <millis>1640789257556</millis>
+  <nanos>537000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>WARNING</level>
+  <class>controllers.LoginController</class>
+  <method>Login</method>
+  <thread>15</thread>
+  <message>username or password is Empty.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T15:01:43.612844Z</date>
+  <millis>1640790103612</millis>
+  <nanos>844000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T15:01:43.664786Z</date>
+  <millis>1640790103664</millis>
+  <nanos>786000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T15:01:43.669708Z</date>
+  <millis>1640790103669</millis>
+  <nanos>708000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<record>
+  <date>2021-12-29T15:01:47.505361Z</date>
+  <millis>1640790107505</millis>
+  <nanos>361000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>WARNING</level>
+  <class>controllers.LoginController</class>
+  <method>Login</method>
+  <thread>15</thread>
+  <message>username or password is Empty.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T15:10:50.649266Z</date>
+  <millis>1640790650649</millis>
+  <nanos>266000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T15:10:50.701Z</date>
+  <millis>1640790650701</millis>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T15:10:50.705530Z</date>
+  <millis>1640790650705</millis>
+  <nanos>530000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T15:14:58.771502Z</date>
+  <millis>1640790898771</millis>
+  <nanos>502000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T15:14:58.811069Z</date>
+  <millis>1640790898811</millis>
+  <nanos>69000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T15:14:58.814733Z</date>
+  <millis>1640790898814</millis>
+  <nanos>733000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T15:18:15.399233Z</date>
+  <millis>1640791095399</millis>
+  <nanos>233000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T15:18:15.453008Z</date>
+  <millis>1640791095453</millis>
+  <nanos>8000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T15:18:15.457752Z</date>
+  <millis>1640791095457</millis>
+  <nanos>752000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T15:20:56.545526Z</date>
+  <millis>1640791256545</millis>
+  <nanos>526000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T15:20:56.596750Z</date>
+  <millis>1640791256596</millis>
+  <nanos>750000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T15:20:56.601539Z</date>
+  <millis>1640791256601</millis>
+  <nanos>539000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T15:21:45.581083Z</date>
+  <millis>1640791305581</millis>
+  <nanos>83000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T15:21:45.619358Z</date>
+  <millis>1640791305619</millis>
+  <nanos>358000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T15:21:45.623109Z</date>
+  <millis>1640791305623</millis>
+  <nanos>109000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T15:23:13.717861Z</date>
+  <millis>1640791393717</millis>
+  <nanos>861000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T15:23:13.772324Z</date>
+  <millis>1640791393772</millis>
+  <nanos>324000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T15:23:13.778061Z</date>
+  <millis>1640791393778</millis>
+  <nanos>61000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T15:32:06.943174Z</date>
+  <millis>1640791926943</millis>
+  <nanos>174000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T15:32:06.993311Z</date>
+  <millis>1640791926993</millis>
+  <nanos>311000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T15:32:06.997222Z</date>
+  <millis>1640791926997</millis>
+  <nanos>222000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T18:10:34.745050Z</date>
+  <millis>1640801434745</millis>
+  <nanos>50000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T18:10:34.867131Z</date>
+  <millis>1640801434867</millis>
+  <nanos>131000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T18:10:34.872701Z</date>
+  <millis>1640801434872</millis>
+  <nanos>701000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T18:47:42.491120Z</date>
+  <millis>1640803662491</millis>
+  <nanos>120000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T18:47:42.545469Z</date>
+  <millis>1640803662545</millis>
+  <nanos>469000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T18:47:42.550086Z</date>
+  <millis>1640803662550</millis>
+  <nanos>86000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:25:26.060269Z</date>
+  <millis>1640805926060</millis>
+  <nanos>269000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:25:26.202676Z</date>
+  <millis>1640805926202</millis>
+  <nanos>676000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:25:26.207846Z</date>
+  <millis>1640805926207</millis>
+  <nanos>846000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:26:56.785557Z</date>
+  <millis>1640806016785</millis>
+  <nanos>557000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:26:56.849418Z</date>
+  <millis>1640806016849</millis>
+  <nanos>418000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:26:56.853995Z</date>
+  <millis>1640806016853</millis>
+  <nanos>995000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:29:46.313292Z</date>
+  <millis>1640806186313</millis>
+  <nanos>292000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:29:46.357946Z</date>
+  <millis>1640806186357</millis>
+  <nanos>946000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:29:46.363069Z</date>
+  <millis>1640806186363</millis>
+  <nanos>69000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:33:56.502187Z</date>
+  <millis>1640806436502</millis>
+  <nanos>187000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:33:56.543873Z</date>
+  <millis>1640806436543</millis>
+  <nanos>873000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:33:56.547526Z</date>
+  <millis>1640806436547</millis>
+  <nanos>526000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:36:01.566491Z</date>
+  <millis>1640806561566</millis>
+  <nanos>491000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:36:01.614337Z</date>
+  <millis>1640806561614</millis>
+  <nanos>337000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:36:01.619116Z</date>
+  <millis>1640806561619</millis>
+  <nanos>116000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:42:06.602828Z</date>
+  <millis>1640806926602</millis>
+  <nanos>828000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:42:06.641913Z</date>
+  <millis>1640806926641</millis>
+  <nanos>913000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:42:06.645907Z</date>
+  <millis>1640806926645</millis>
+  <nanos>907000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:43:47.006954Z</date>
+  <millis>1640807027006</millis>
+  <nanos>954000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:43:47.044686Z</date>
+  <millis>1640807027044</millis>
+  <nanos>686000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:43:47.048163Z</date>
+  <millis>1640807027048</millis>
+  <nanos>163000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:46:41.933010Z</date>
+  <millis>1640807201933</millis>
+  <nanos>10000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:46:41.981985Z</date>
+  <millis>1640807201981</millis>
+  <nanos>985000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:46:41.986496Z</date>
+  <millis>1640807201986</millis>
+  <nanos>496000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:47:19.518841Z</date>
+  <millis>1640807239518</millis>
+  <nanos>841000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:47:19.560721Z</date>
+  <millis>1640807239560</millis>
+  <nanos>721000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:47:19.565257Z</date>
+  <millis>1640807239565</millis>
+  <nanos>257000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:47:36.724988Z</date>
+  <millis>1640807256724</millis>
+  <nanos>988000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:47:36.773326Z</date>
+  <millis>1640807256773</millis>
+  <nanos>326000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:47:36.778140Z</date>
+  <millis>1640807256778</millis>
+  <nanos>140000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:49:17.928674Z</date>
+  <millis>1640807357928</millis>
+  <nanos>674000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:49:17.976020Z</date>
+  <millis>1640807357976</millis>
+  <nanos>20000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:49:17.981216Z</date>
+  <millis>1640807357981</millis>
+  <nanos>216000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:50:30.288555Z</date>
+  <millis>1640807430288</millis>
+  <nanos>555000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:50:30.328012Z</date>
+  <millis>1640807430328</millis>
+  <nanos>12000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:50:30.331956Z</date>
+  <millis>1640807430331</millis>
+  <nanos>956000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:55:42.241648Z</date>
+  <millis>1640807742241</millis>
+  <nanos>648000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:55:42.291618Z</date>
+  <millis>1640807742291</millis>
+  <nanos>618000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:55:42.296740Z</date>
+  <millis>1640807742296</millis>
+  <nanos>740000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:56:57.171475Z</date>
+  <millis>1640807817171</millis>
+  <nanos>475000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:56:57.221474Z</date>
+  <millis>1640807817221</millis>
+  <nanos>474000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:56:57.226152Z</date>
+  <millis>1640807817226</millis>
+  <nanos>152000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T19:57:34.088498Z</date>
+  <millis>1640807854088</millis>
+  <nanos>498000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T19:57:34.136272Z</date>
+  <millis>1640807854136</millis>
+  <nanos>272000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T19:57:34.141646Z</date>
+  <millis>1640807854141</millis>
+  <nanos>646000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T20:00:30.930277Z</date>
+  <millis>1640808030930</millis>
+  <nanos>277000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T20:00:30.979004Z</date>
+  <millis>1640808030979</millis>
+  <nanos>4000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T20:00:30.983714Z</date>
+  <millis>1640808030983</millis>
+  <nanos>714000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T20:01:07.958066Z</date>
+  <millis>1640808067958</millis>
+  <nanos>66000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T20:01:07.997464Z</date>
+  <millis>1640808067997</millis>
+  <nanos>464000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T20:01:08.001969Z</date>
+  <millis>1640808068001</millis>
+  <nanos>969000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T20:02:16.913010Z</date>
+  <millis>1640808136913</millis>
+  <nanos>10000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T20:02:16.956475Z</date>
+  <millis>1640808136956</millis>
+  <nanos>475000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T20:02:16.961013Z</date>
+  <millis>1640808136961</millis>
+  <nanos>13000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T20:18:26.085366Z</date>
+  <millis>1640809106085</millis>
+  <nanos>366000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T20:18:26.138757Z</date>
+  <millis>1640809106138</millis>
+  <nanos>757000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T20:18:26.143526Z</date>
+  <millis>1640809106143</millis>
+  <nanos>526000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T20:18:55.935125Z</date>
+  <millis>1640809135935</millis>
+  <nanos>125000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T20:18:55.986738Z</date>
+  <millis>1640809135986</millis>
+  <nanos>738000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T20:18:55.991851Z</date>
+  <millis>1640809135991</millis>
+  <nanos>851000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T20:20:16.704913Z</date>
+  <millis>1640809216704</millis>
+  <nanos>913000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T20:20:16.752719Z</date>
+  <millis>1640809216752</millis>
+  <nanos>719000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T20:20:16.757324Z</date>
+  <millis>1640809216757</millis>
+  <nanos>324000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T20:51:08.114925Z</date>
+  <millis>1640811068114</millis>
+  <nanos>925000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T20:51:08.164486Z</date>
+  <millis>1640811068164</millis>
+  <nanos>486000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T20:51:08.169134Z</date>
+  <millis>1640811068169</millis>
+  <nanos>134000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T20:58:08.917450Z</date>
+  <millis>1640811488917</millis>
+  <nanos>450000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T20:58:09.023244Z</date>
+  <millis>1640811489023</millis>
+  <nanos>244000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T20:58:09.027470Z</date>
+  <millis>1640811489027</millis>
+  <nanos>470000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-12-29T21:02:48.625319Z</date>
+  <millis>1640811768625</millis>
+  <nanos>319000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2021-12-29T21:02:48.765212Z</date>
+  <millis>1640811768765</millis>
+  <nanos>212000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2021-12-29T21:02:48.772122Z</date>
+  <millis>1640811768772</millis>
+  <nanos>122000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T15:16:52.980489Z</date>
+  <millis>1641223012980</millis>
+  <nanos>489000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T15:16:53.061673Z</date>
+  <millis>1641223013061</millis>
+  <nanos>673000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T15:16:53.066154Z</date>
+  <millis>1641223013066</millis>
+  <nanos>154000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T15:18:40.820458Z</date>
+  <millis>1641223120820</millis>
+  <nanos>458000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T15:18:40.868735Z</date>
+  <millis>1641223120868</millis>
+  <nanos>735000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T15:18:40.873343Z</date>
+  <millis>1641223120873</millis>
+  <nanos>343000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T15:25:05.542720Z</date>
+  <millis>1641223505542</millis>
+  <nanos>720000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T15:25:05.596217Z</date>
+  <millis>1641223505596</millis>
+  <nanos>217000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T15:25:05.610166Z</date>
+  <millis>1641223505610</millis>
+  <nanos>166000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T17:34:17.800878Z</date>
+  <millis>1641231257800</millis>
+  <nanos>878000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T17:34:17.896368Z</date>
+  <millis>1641231257896</millis>
+  <nanos>368000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T17:34:17.901331Z</date>
+  <millis>1641231257901</millis>
+  <nanos>331000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T17:51:17.780286Z</date>
+  <millis>1641232277780</millis>
+  <nanos>286000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T17:51:17.840820Z</date>
+  <millis>1641232277840</millis>
+  <nanos>820000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T17:51:17.845836Z</date>
+  <millis>1641232277845</millis>
+  <nanos>836000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T17:54:48.591391Z</date>
+  <millis>1641232488591</millis>
+  <nanos>391000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T17:54:48.636779Z</date>
+  <millis>1641232488636</millis>
+  <nanos>779000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T17:54:48.641082Z</date>
+  <millis>1641232488641</millis>
+  <nanos>82000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T17:56:05.435657Z</date>
+  <millis>1641232565435</millis>
+  <nanos>657000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T17:56:05.532223Z</date>
+  <millis>1641232565532</millis>
+  <nanos>223000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T17:56:05.541985Z</date>
+  <millis>1641232565541</millis>
+  <nanos>985000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<record>
+  <date>2022-01-03T17:56:44.597857Z</date>
+  <millis>1641232604597</millis>
+  <nanos>857000</nanos>
+  <sequence>3</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>WARNING</level>
+  <class>controllers.LoginController</class>
+  <method>Login</method>
+  <thread>18</thread>
+  <message>username or password is Empty.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T17:57:00.184283Z</date>
+  <millis>1641232620184</millis>
+  <nanos>283000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T17:57:00.316196Z</date>
+  <millis>1641232620316</millis>
+  <nanos>196000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T17:57:00.324914Z</date>
+  <millis>1641232620324</millis>
+  <nanos>914000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T18:16:17.552660Z</date>
+  <millis>1641233777552</millis>
+  <nanos>660000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T18:16:17.641113Z</date>
+  <millis>1641233777641</millis>
+  <nanos>113000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T18:16:17.646625Z</date>
+  <millis>1641233777646</millis>
+  <nanos>625000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T18:23:54.117362Z</date>
+  <millis>1641234234117</millis>
+  <nanos>362000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T18:23:54.223041Z</date>
+  <millis>1641234234223</millis>
+  <nanos>41000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T18:23:54.229018Z</date>
+  <millis>1641234234229</millis>
+  <nanos>18000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T18:45:17.159314Z</date>
+  <millis>1641235517159</millis>
+  <nanos>314000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T18:45:17.240170Z</date>
+  <millis>1641235517240</millis>
+  <nanos>170000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T18:45:17.244Z</date>
+  <millis>1641235517244</millis>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T19:10:06.994340Z</date>
+  <millis>1641237006994</millis>
+  <nanos>340000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T19:10:07.037019Z</date>
+  <millis>1641237007037</millis>
+  <nanos>19000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T19:10:07.041134Z</date>
+  <millis>1641237007041</millis>
+  <nanos>134000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T19:17:55.585010Z</date>
+  <millis>1641237475585</millis>
+  <nanos>10000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T19:17:55.670513Z</date>
+  <millis>1641237475670</millis>
+  <nanos>513000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T19:17:55.675384Z</date>
+  <millis>1641237475675</millis>
+  <nanos>384000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T19:33:34.719786Z</date>
+  <millis>1641238414719</millis>
+  <nanos>786000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T19:33:34.843609Z</date>
+  <millis>1641238414843</millis>
+  <nanos>609000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T19:33:34.924857Z</date>
+  <millis>1641238414924</millis>
+  <nanos>857000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-01-03T19:38:03.640085Z</date>
+  <millis>1641238683640</millis>
+  <nanos>85000</nanos>
+  <sequence>0</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>CONFIG</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Configuration done.</message>
+</record>
+<record>
+  <date>2022-01-03T19:38:03.677295Z</date>
+  <millis>1641238683677</millis>
+  <nanos>295000</nanos>
+  <sequence>1</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINE</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finer logged</message>
+</record>
+<record>
+  <date>2022-01-03T19:38:03.681252Z</date>
+  <millis>1641238683681</millis>
+  <nanos>252000</nanos>
+  <sequence>2</sequence>
+  <logger>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</logger>
+  <level>FINER</level>
+  <class>com.mycompany.restaurant.reservation.system.sql.RestaurantReservationSystem</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Finest example on LOGGER handler completed.</message>
+</record>
+</log>
